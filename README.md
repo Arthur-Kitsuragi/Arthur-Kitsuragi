@@ -3,7 +3,7 @@
 <h1 align="center"> 𝔊𝔯𝔢𝔢𝔱𝔦𝔫𝔤𝔰, 𝔱𝔯𝔞𝔳𝔢𝔩𝔢𝔯. </h1>
 <br>
 <div align="center">
-   <img src="https://i.redd.it/yaadhi7uyzz81.jpg" />
+   <img src="https://img.audiomania.ru/images/content/RussianGOField.jpg" />
   </a>
     <br>
 </div>
